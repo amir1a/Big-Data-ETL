@@ -20,7 +20,7 @@ python -m venv myenv
 Create .env file
   DB_URL=postgresql://user:password@localhost:5432/ecom
 
-extract data.rar
+# extract data.rar
 
 # 1. Process raw data
 
