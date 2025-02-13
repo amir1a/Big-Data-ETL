@@ -17,7 +17,7 @@ python -m venv myenv
    ```bash
    pip install -r requirements.txt
 
-Create .env file
+# Create .env file
   DB_URL=postgresql://user:password@localhost:5432/ecom
 
 # extract data.rar
